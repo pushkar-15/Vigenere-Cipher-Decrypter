@@ -1,8 +1,4 @@
-# Name: Pushkar Narkhede
-# Registration Number: 211090014
-# Network Security Assignment 2 - Vigenere Cipher
-
-# (Sample outputs, explainations and decrypted message is included in comments)
+# (Sample outputs, explanations and decrypted message is included in comments)
 
 
 
