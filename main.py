@@ -7,9 +7,9 @@
 from math import sqrt
 
 # open the given files and store the text in variables:
-with open('vigenere\helper-files\mogambo.txt', 'r') as file:
+with open('helper-files\mogambo.txt', 'r') as file:
     C = file.read()
-with open('vigenere\helper-files\interval.txt', 'r') as file:
+with open('helper-files\interval.txt', 'r') as file:
     intervals_lines = [line.rstrip() for line in file]
 
 # list of interval values
